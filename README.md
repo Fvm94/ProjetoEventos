@@ -3,7 +3,7 @@
 <tr border="none">
 <td width="50%" align="left"> 
   
-- 🧛‍♂️ Ola meu nome é **Francisco
+- 🧛‍♂️ Olá meu nome é Francisco
 - 🎓 Estou no primeiro semestre do Curso de Ciência da Computação
 - 📫 Você pode me encontrar em <a href="https://www.linkedin.com/in/francisco-vasques-mendes/">linkedin</a>
 - ⚙️ O projeto consiste em um organizador de eventos
